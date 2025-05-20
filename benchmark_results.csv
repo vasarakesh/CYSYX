@@ -1,0 +1,10 @@
+RequestsPerSec,TimePerRequest,FailedRequests,Method,NumRequests
+6395.91,0.782,0,actix,100
+6296.79,7.941,0,actix,1000
+7180.86,13.926,0,actix,5000
+1476.65,3.386,0,express,100
+3058.91,16.346,0,express,1000
+4320.93,23.143,0,express,5000
+181.41,27.562,0,flask,100
+705.76,70.846,0,flask,1000
+706.15,141.613,0,flask,5000
